@@ -4,6 +4,7 @@
 This project implements different search methods (Breadth First Search, Depth First Search, and A-Star) in a maze using a priority queue in the form of a heap data structure. The goal is to find the shortest path from a specified source to a specified goal in a maze with varying obstacle densities.
 
 **Algorithms Implemented**
+
 Breadth First Search (BFS)
 BFS starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. It ensures an exhaustive exploration of the maze.
 
